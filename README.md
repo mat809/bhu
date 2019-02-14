@@ -1,2 +1,0 @@
-# bhu
-bhu config
